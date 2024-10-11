@@ -2,6 +2,12 @@
 
 This guide will help you install and set up the Ember language on a Windows system.
 
+
+# Important Notice
+
+## Ember for windows is not official yet so it may break or not even work at all
+## We are not responsible for any changes done to your system
+
 ## Prerequisites
 
 Ensure that you have the following:
