@@ -1,4 +1,4 @@
-# Ember Language Install Guide
+# MacOS Ember Language Install Guide
 
 Welcome to Ember! Follow the steps below to install and set up the Ember command-line tool on your system.
 
