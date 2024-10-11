@@ -2,6 +2,15 @@
 
 Welcome to the **Ember**, a simple and dynamic programming language built for a simpler version of **Python**. This Language supports basic operations like printing, variable declarations, loops, conditions, file operations, error handling, and Python code execution. It also allows for dynamic class creation with getters and setters.
 
+
+
+## Supported Operating Systems
+
+### Current Support
+- Mac - Full Support
+- Windows - Partial Support - Only through python using ember.py
+- Linux - No Support - Experimental and Untested - May Break Often - Uses the ember.py file
+
 ## Features
 
 ### 1. Print Statements
@@ -140,10 +149,11 @@ class MyClass
 
 ## Installation and Usage
 
-To run the Ember Interpreter:
-1. Clone this repository.
-2. Ensure you have Python 3 installed.
-3. Run the `interpreter.py` file with any Ember code.
+To Install the Ember language:
+
+- **For Mac** - [Go to install-mac.md](install-mac.md)
+- **For Windows** - [Go to install-windows.md](install-windows.md)
+
 
 ```
 python3 interpreter.py
